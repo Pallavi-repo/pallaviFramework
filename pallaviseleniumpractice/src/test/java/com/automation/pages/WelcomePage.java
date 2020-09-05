@@ -14,7 +14,6 @@ public class WelcomePage extends BaseClass {
 	{
 		this.driver=locdriver;
 	}
-
 	@FindBy(xpath="//input[@id='email']") WebElement email;
 	
 	@FindBy(xpath= "//input[@id='pass']") WebElement pass;
