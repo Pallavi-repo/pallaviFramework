@@ -7,6 +7,8 @@ import org.openqa.selenium.support.FindBy;
 public class WelcomePage extends BaseClass {
 	
      WebDriver driver;
+     
+ //New Test comment by pallavi
 	
 	public WelcomePage(WebDriver locdriver)
 	{
